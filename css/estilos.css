@@ -1,0 +1,56 @@
+/* fuentes */
+@font-face {
+  font-family: "Roboto-regular";
+  src: url(../font/Roboto-Regular.ttf);
+}
+body {
+  background-color: #f5f7f8;
+  font-family: "Roboto-regular";
+  font-size: 14px;
+  color: #707070;
+}
+a{
+    text-decoration: none;
+}
+.color2 {
+  background-color: #e6e4e4;
+}
+.color3 {
+  color: #ab5139;
+}
+
+.autores {
+  font-family: "Roboto-regular";
+  font-size: 10px;
+  color: #707070;
+}
+.menu {
+  color: #ab5139;
+  font-family: "Roboto-regular";
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.titulo {
+  font-family: "Roboto-regular";
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#carta {
+  border-radius: 10px;
+}
+
+.paper-card{
+  margin-top: 20px;
+
+}
+.paper-card ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.paper-card ul li{
+  padding-left: 16px;;
+}
