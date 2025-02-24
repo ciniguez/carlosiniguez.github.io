@@ -9,6 +9,7 @@ body {
   font-size: 14px;
   color: #707070;
 }
+.text-minimal { font-size: 0.8rem;}
 a{
     text-decoration: none;
 }
@@ -54,3 +55,14 @@ a{
 .paper-card ul li{
   padding-left: 16px;;
 }
+
+.main-menu ul {list-style-type: none; padding: 0px;}
+.main-menu ul li{ border-top: 1px solid #707070; text-align: left; padding: 3px;}
+.main-menu ul li a{text-decoration: none; text-align: left;}
+
+.time-card{
+  width: 150px;
+  background-color: hsl(240deg, 100%, 90%);
+}
+
+.education p {padding: 00px; margin: 0px;}
