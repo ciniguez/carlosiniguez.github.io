@@ -61,10 +61,14 @@ a{
 .main-menu ul li a{text-decoration: none; text-align: left;}
 
 .time-card{
-  width: 150px;
-  background-color: hsl(240deg, 100%, 90%);
+  width: 180px;
+  height: 150px;
+  text-align: center;
+  background-color: hsl(240deg, 10%, 95%);
+  padding: 3px;
+  display: inline-block;
+  border-radius: 10px;
 }
 
-.education p {padding: 00px; margin: 0px;}
-
+.time-card>div>p:first-child{ color: green; font-weight: bold;}
 .text-justify{ text-align: justify;}
